@@ -1,2 +1,5 @@
 # hello-universe
-Parent of hello-world (:) just a github start out)
+
+Hello!
+
+This is parent of hello-world example code on github
